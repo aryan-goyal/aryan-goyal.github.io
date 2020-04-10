@@ -28,6 +28,10 @@ projects:
     projects:
     # - repo-name
 
+about:
+  - one: Hello! I am a 3rd-year Computer Engineering Student at the University of Waterloo, graduating in April 2022.  
+  - two: I previously worked as a Big Data Developer at DRVN intelligence architecting Data Systems, as a Developer at the Royal Bank of Canda building Data Ontologies and Named Entity Recognition system, and at Thales Canda on digital signaling for projects using Communication Based Train Control spanning 3 different countries.
+
 resume:
   - link: https://drive.google.com/file/d/1uxl5ax9vWj8P6BQ4mPOkSn3mrPjCHxHd/view?usp=sharing
 
@@ -46,7 +50,7 @@ experience:
     web_url: https://drvnintelligence.com/
     image_url: https://media-exp1.licdn.com/dms/image/C560BAQGdxBg2tWKxnQ/company-logo_200_200/0?e=2159024400&v=beta&t=EhHTVfAIoc6vldxAah4HiWNKw3jUDs8udzclgfHXNvY
 
-  - name: Developer, RBC (Data & Analytics)
+  - name: Developer, RBC (DNA | Data & Analytics)
     description: Data Ontologies and Named Entity Recognition system using Natural Language Proccessing and Machine Learning
     web_url: https://www.rbc.com/about-rbc.html
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/rbc-dna.png
