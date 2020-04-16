@@ -1,1 +1,1 @@
-[Personal Website](https://goyalaryan.com)
+[My Personal Website](https://goyalaryan.com)
