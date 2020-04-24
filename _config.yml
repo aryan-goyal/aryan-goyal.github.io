@@ -9,8 +9,7 @@ plugins:
 permalink: /:year/:month/:day/:title/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
@@ -21,7 +20,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 10
   exclude:
     archived: false
     forks: true
@@ -29,7 +28,7 @@ projects:
     # - repo-name
 
 about:
-  - one: Hello! I am a 3rd-year Computer Engineering Student at the University of Waterloo, graduating in April 2022.  
+  - one: Hello! I am a 3rd-year Computer Engineering Student at the University of Waterloo, graduating in April 2022.
   - two: I previously worked as a Big Data Developer at DRVN intelligence architecting Data Systems, as a Developer at the Royal Bank of Canda building Data Ontologies and Named Entity Recognition system, and at Thales Canda on digital signaling for projects using Communication Based Train Control spanning 3 different countries.
 
 resume:
@@ -54,7 +53,7 @@ experience:
     description: Data Ontologies and Named Entity Recognition system using Natural Language Proccessing and Machine Learning
     web_url: https://www.rbc.com/about-rbc.html
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/rbc-dna.png
-    
+
   - name: IT Advisory Board, University of Waterloo
     description: Implemented improvements to campus Wi-Fi services
     web_url: https://uwaterloo.ca/ist-advisory-board/
@@ -81,13 +80,13 @@ education:
     web_url: http://school.cbe.ab.ca/school/sirwinstonchurchill/Pages/default.aspx
     image_url: https://photos.applyboard.com/schools/000/000/450/logos/original/Sir_Winston_Churchill_LOGO.png?1542310856
 
-  - name: Thomas Jefferson High School for Science and Technology 
+  - name: Thomas Jefferson High School for Science and Technology
     description: (2013)
     web_url: https://tjhsst.fcps.edu/
     image_url: https://upload.wikimedia.org/wikipedia/en/b/b4/Tjlogo.png
 
 topics:
-  - name: Artificial Intelligence 
+  - name: Artificial Intelligence
     web_url: https://github.com/topics/artificial-intelligence
     image_url: https://i.pinimg.com/originals/a2/aa/45/a2aa45502770db5ee345064f63fdb7af.png
 
