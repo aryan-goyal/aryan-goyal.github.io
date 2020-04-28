@@ -45,12 +45,12 @@ social_media:
 
 experience:
   - name: Big Data Developer, DRVN Intelligence Inc. (Data Systems)
-    description: Archtecting Big Data systems using Google Cloud Platform and Artifical Intelligence
+    description: Architecting Big Data systems using Google Cloud Platform and Artificial Intelligence
     web_url: https://drvnintelligence.com/
     image_url: https://media-exp1.licdn.com/dms/image/C560BAQGdxBg2tWKxnQ/company-logo_200_200/0?e=2159024400&v=beta&t=EhHTVfAIoc6vldxAah4HiWNKw3jUDs8udzclgfHXNvY
 
   - name: Developer, RBC (DNA | Data & Analytics)
-    description: Data Ontologies and Named Entity Recognition system using Natural Language Proccessing and Machine Learning
+    description: Data Ontologies and Named Entity Recognition system using Natural Language Processing and Machine Learning
     web_url: https://www.rbc.com/about-rbc.html
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/rbc-dna.png
 
@@ -59,8 +59,8 @@ experience:
     web_url: https://uwaterloo.ca/ist-advisory-board/
     image_url: https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png
 
-  - name: Technical Systems Analyst, RBC (Global Techonology Infrastructure)
-    description: Leveraged ML based Data Analytics systems in to detect operating system anomalies in datacenter.
+  - name: Technical Systems Analyst, RBC (Global Technology Infrastructure)
+    description: Leveraged ML-based Data Analytics systems to detect operating system anomalies in datacenterss.
     web_url: https://www.rbc.com/about-rbc.html
     image_url: https://lh3.googleusercontent.com/vY6CcG84EiozSiZwM1v1_UFEeOK2ADXlHWVV-vgl0qkF-dNcpTr-Mme7YpTPc0YtHoU
 
@@ -70,7 +70,7 @@ experience:
     image_url: https://media-exp1.licdn.com/dms/image/C4D0BAQEmnUAXTuLkJQ/company-logo_200_200/0?e=2159024400&v=beta&t=gO3K5Eyewps-LALo509r2icge6ka0aqS5OfkgZEnuls
 
 education:
-  - name: Unviersity of Waterloo
+  - name: University of Waterloo
     description: Bachelor of Applied Science (BASc), Computer Engieering (2017—2022)
     web_url: https://uwaterloo.ca/
     image_url: https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png
