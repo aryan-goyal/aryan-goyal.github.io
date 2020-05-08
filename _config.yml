@@ -20,7 +20,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 10
+  limit: 9
   exclude:
     archived: false
     forks: true
@@ -47,7 +47,7 @@ experience:
   - name: Big Data Developer, DRVN Intelligence Inc. (Data Systems)
     description: Architecting Big Data systems using Google Cloud Platform and Artificial Intelligence
     web_url: https://drvnintelligence.com/
-    image_url: https://media-exp1.licdn.com/dms/image/C560BAQGdxBg2tWKxnQ/company-logo_200_200/0?e=2159024400&v=beta&t=EhHTVfAIoc6vldxAah4HiWNKw3jUDs8udzclgfHXNvY
+    image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/DRVN-intelligence.png
 
   - name: Developer, RBC (DNA | Data & Analytics)
     description: Data Ontologies and Named Entity Recognition system using Natural Language Processing and Machine Learning
@@ -67,7 +67,7 @@ experience:
   - name: Software Analyst, Thales Canada (Transportation Solutions)
     description: Communication-Based Train Control (CBTC, Digital Signaling) metro projects in Hong Kong, Qatar, New York
     web_url: https://www.thalesgroup.com/en/americas/canada
-    image_url: https://media-exp1.licdn.com/dms/image/C4D0BAQEmnUAXTuLkJQ/company-logo_200_200/0?e=2159024400&v=beta&t=gO3K5Eyewps-LALo509r2icge6ka0aqS5OfkgZEnuls
+    image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/thales.png
 
 education:
   - name: University of Waterloo
