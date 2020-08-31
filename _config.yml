@@ -44,10 +44,10 @@ social_media:
   # facebook: your_username
 
 experience:
-  # - name: Congnitive Intelligence & Machine Learning Developer, BlackBerry
-  #   description: Large scale threat prediction using AI.
-  #   web_url: https://www.blackberry.com/us/en
-  #   image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/bb.png
+  - name: Congnitive Intelligence & Machine Learning Developer, BlackBerry
+    description: Large scale threat prediction using AI.
+    web_url: https://www.blackberry.com/us/en
+    image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/bb.png
 
   - name: Big Data Developer, DRVN Intelligence Inc. (Data Systems)
     description: Architecting Big Data systems using Google Cloud Platform and Artificial Intelligence
