@@ -28,8 +28,8 @@ projects:
     # - repo-name
 
 about:
-  - one: Hello! I am a 3rd-year Computer Engineering Student at the University of Waterloo, graduating in April 2022.
-  - two: I previously worked as a Big Data Developer at DRVN intelligence architecting Data Systems, as a Developer at the Royal Bank of Canda building Data Ontologies and Named Entity Recognition system, and at Thales Canda on digital signaling for projects using Communication Based Train Control spanning 3 different countries.
+  - one: Hello! I am a 4th-year Computer Engineering Student at the University of Waterloo, graduating in April 2022.
+  - two: I have 2+ of experience designing and developing data driven systems, with a keen interest in mahcine learning and artificial intelligence.
 
 resume:
   - link: https://drive.google.com/file/d/1uxl5ax9vWj8P6BQ4mPOkSn3mrPjCHxHd/view?usp=sharing
@@ -44,8 +44,8 @@ social_media:
   # facebook: your_username
 
 experience:
-  - name: Congnitive Analytics & Machine Learning Developer, BlackBerry
-    description: CSO AI Lab. Building large scale anomoly detection system.
+  - name: Machine Learning Developer, BlackBerry
+    description: CSO Artificial Intelligence Lab. Building deel learning based anomoly detection system.
     web_url: https://www.blackberry.com/us/en
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/bb.png
 
@@ -59,11 +59,6 @@ experience:
     web_url: https://www.rbc.com/about-rbc.html
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/rbc-dna.png
 
-  - name: IT Advisory Board, University of Waterloo
-    description: Implemented improvements to campus Wi-Fi services
-    web_url: https://uwaterloo.ca/ist-advisory-board/
-    image_url: https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png
-
   - name: Software Developer, RBC (Global Technology Infrastructure)
     description: Leveraged ML-based Data Analytics systems to detect operating system anomalies in datacenterss.
     web_url: https://www.rbc.com/about-rbc.html
@@ -73,6 +68,11 @@ experience:
     description: Communication-Based Train Control (CBTC, Digital Signaling) metro projects in Hong Kong, Qatar, New York
     web_url: https://www.thalesgroup.com/en/americas/canada
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/thales.png
+
+  - name: IT Advisory Board, University of Waterloo
+    description: Implemented improvements to campus Wi-Fi services
+    web_url: https://uwaterloo.ca/ist-advisory-board/
+    image_url: https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png
 
 education:
   - name: University of Waterloo
@@ -100,5 +100,5 @@ topics:
     image_url: https://images.squarespace-cdn.com/content/v1/5704eafe3c44d8b8f6665c04/1507492007792-7GAKSHYNEB5A7WPDGTJC/ke17ZwdGBToddI8pDm48kKGNYk_wTTMfXZ6qjLA49-BZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH2ATtxt8VnPebSpV9kfvvu2LNCOGf3YgcgSBGMuxXv9e87Nsj43NRAr6WuWZv5DKs/adrien-harrison-echo-studio-system-idea-generation.png
 
   - name: Scala
-    web_url: https://github.com/topics/scala
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png
+    web_url: https://github.com/topics/machine-learning
+    image_url: https://cdn.iconscout.com/icon/premium/png-256-thumb/machine-learning-2442183-2028032.png
