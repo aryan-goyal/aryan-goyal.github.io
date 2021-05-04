@@ -91,14 +91,14 @@ education:
     image_url: https://upload.wikimedia.org/wikipedia/en/b/b4/Tjlogo.png
 
 topics:
-  - name: Artificial Intelligence
-    web_url: https://github.com/topics/artificial-intelligence
-    image_url: https://i.pinimg.com/originals/a2/aa/45/a2aa45502770db5ee345064f63fdb7af.png
-
   - name: System Design
     web_url: https://github.com/topics/system-design
     image_url: https://images.squarespace-cdn.com/content/v1/5704eafe3c44d8b8f6665c04/1507492007792-7GAKSHYNEB5A7WPDGTJC/ke17ZwdGBToddI8pDm48kKGNYk_wTTMfXZ6qjLA49-BZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH2ATtxt8VnPebSpV9kfvvu2LNCOGf3YgcgSBGMuxXv9e87Nsj43NRAr6WuWZv5DKs/adrien-harrison-echo-studio-system-idea-generation.png
 
-  - name: Scala
+  - name: Machine Learning
     web_url: https://github.com/topics/machine-learning
     image_url: https://cdn.iconscout.com/icon/premium/png-256-thumb/machine-learning-2442183-2028032.png
+
+  - name: Artificial Intelligence
+    web_url: https://github.com/topics/artificial-intelligence
+    image_url: https://i.pinimg.com/originals/a2/aa/45/a2aa45502770db5ee345064f63fdb7af.png
