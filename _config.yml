@@ -29,7 +29,7 @@ projects:
 
 about:
   - one: Hello! I am a 4th-year Computer Engineering Student at the University of Waterloo, graduating in April 2022.
-  - two: I have 2+ of experience designing and developing data driven systems, with a keen interest in mahcine learning and artificial intelligence.
+  - two: I have 2+ years of experience designing and developing data-driven systems, with a keen interest in machine learning and artificial intelligence.
 
 resume:
   - link: https://drive.google.com/file/d/1uxl5ax9vWj8P6BQ4mPOkSn3mrPjCHxHd/view?usp=sharing
@@ -60,7 +60,7 @@ experience:
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/rbc-dna.png
 
   - name: Software Developer, RBC (Global Technology Infrastructure)
-    description: Leveraged ML-based Data Analytics systems to detect operating system anomalies in datacenterss.
+    description: Leveraged ML-based Data Analytics systems to detect operating system anomalies in datacenters.
     web_url: https://www.rbc.com/about-rbc.html
     image_url: https://lh3.googleusercontent.com/vY6CcG84EiozSiZwM1v1_UFEeOK2ADXlHWVV-vgl0qkF-dNcpTr-Mme7YpTPc0YtHoU
 
