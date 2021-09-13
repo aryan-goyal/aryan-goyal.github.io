@@ -45,6 +45,11 @@ social_media:
   # facebook: your_username
 
 experience:
+  - name: Software Engineer, Riskfuel Analytics Inc.
+    description: End-to-end valuation and risk computation of derivatives using Artificial Intelligence.
+    web_url: https://riskfuel.com/
+    image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/riskfuel.jpg
+
   - name: Machine Learning Developer, BlackBerry
     description: CSO Artificial Intelligence Lab. Building deep learning based anomoly detection system.
     web_url: https://www.blackberry.com/us/en
@@ -60,7 +65,7 @@ experience:
     web_url: https://www.rbc.com/about-rbc.html
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/rbc-dna.png
 
-  - name: Software Developer, RBC (Global Technology Infrastructure)
+  - name: Software Developer, RBC (Infrastructure Team)
     description: Leveraged ML-based Data Analytics systems to detect operating system anomalies in datacenters.
     web_url: https://www.rbc.com/about-rbc.html
     image_url: https://lh3.googleusercontent.com/vY6CcG84EiozSiZwM1v1_UFEeOK2ADXlHWVV-vgl0qkF-dNcpTr-Mme7YpTPc0YtHoU
