@@ -28,7 +28,7 @@ projects:
     # - repo-name
 
 about:
-  - one: Hello! I am a 4th-year Computer Engineering Student at the University of Waterloo, graduating in April 2022.
+  - one: Hello! I am recent Computer Engineering grad from the University of Waterloo.
   - two: I have 2+ years of experience designing and developing data-driven systems, with a keen interest in machine learning and artificial intelligence.
 
 resume:
@@ -50,7 +50,7 @@ experience:
     web_url: https://riskfuel.com/
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/riskfuel.jpg
 
-  - name: Machine Learning Developer, BlackBerry
+  - name: Machine Learning Engineer, BlackBerry
     description: CSO Artificial Intelligence Lab. Building deep learning based anomoly detection system.
     web_url: https://www.blackberry.com/us/en
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/bb.png
@@ -60,12 +60,12 @@ experience:
     web_url: https://drvnintelligence.com/
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/DRVN-intelligence.png
 
-  - name: Software Developer, RBC (DNA | Data & Analytics)
+  - name: Software Engineer, RBC (DNA | Data & Analytics)
     description: Data Ontologies and Named Entity Recognition system using Natural Language Processing and Machine Learning
     web_url: https://www.rbc.com/about-rbc.html
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/rbc-dna.png
 
-  - name: Software Developer, RBC (Infrastructure Team)
+  - name: Software Engineer, RBC (Infrastructure Team)
     description: Leveraged ML-based Data Analytics systems to detect operating system anomalies in datacenters.
     web_url: https://www.rbc.com/about-rbc.html
     image_url: https://lh3.googleusercontent.com/vY6CcG84EiozSiZwM1v1_UFEeOK2ADXlHWVV-vgl0qkF-dNcpTr-Mme7YpTPc0YtHoU
