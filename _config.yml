@@ -28,7 +28,7 @@ projects:
     # - repo-name
 
 about:
-  - one: Hello! I am recent Computer Engineering grad from the University of Waterloo.
+  - one: Hello! I am recent Computer Engineering graduate from the University of Waterloo.
   - two: I have 2+ years of experience designing and developing data-driven systems, with a keen interest in machine learning and artificial intelligence.
 
 resume:
@@ -45,6 +45,11 @@ social_media:
   # facebook: your_username
 
 experience:
+  - name: Software Engineer, FlexTrade Systems Inc.
+    description: Order/Execution Management System, Buy-side.
+    web_url: https://flextrade.com/
+    image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/flextrade.jpg
+
   - name: Software Engineer, Riskfuel Analytics Inc.
     description: End-to-end valuation and risk computation of derivatives using Artificial Intelligence.
     web_url: https://riskfuel.com/
