@@ -48,7 +48,7 @@ experience:
   - name: Software Engineer, FlexTrade Systems Inc.
     description: Order/Execution Management System, Buy-side.
     web_url: https://flextrade.com/
-    image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/flextrade.jpg
+    image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/flextrade.png
 
   - name: Software Engineer, Riskfuel Analytics Inc.
     description: End-to-end valuation and risk computation of derivatives using Artificial Intelligence.
@@ -61,12 +61,12 @@ experience:
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/bb.png
 
   - name: Big Data Developer, DRVN Intelligence Inc. (Data Systems)
-    description: Architecting Big Data systems using Google Cloud Platform and Artificial Intelligence
+    description: Architecting Big Data systems using Google Cloud Platform and Artificial Intelligence.
     web_url: https://drvnintelligence.com/
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/DRVN-intelligence.png
 
   - name: Software Engineer, RBC (DNA | Data & Analytics)
-    description: Data Ontologies and Named Entity Recognition system using Natural Language Processing and Machine Learning
+    description: Data Ontologies and Named Entity Recognition system using Natural Language Processing and Machine Learning.
     web_url: https://www.rbc.com/about-rbc.html
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/rbc-dna.png
 
@@ -76,12 +76,12 @@ experience:
     image_url: https://lh3.googleusercontent.com/vY6CcG84EiozSiZwM1v1_UFEeOK2ADXlHWVV-vgl0qkF-dNcpTr-Mme7YpTPc0YtHoU
 
   - name: Software Analyst, Thales Canada (Transportation Solutions)
-    description: Communication-Based Train Control (CBTC, Digital Signaling) metro projects in Hong Kong, Qatar, New York
+    description: Communication-Based Train Control (CBTC, Digital Signaling) metro projects in Hong Kong, Qatar, New York.
     web_url: https://www.thalesgroup.com/en/americas/canada
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/thales.png
 
   - name: IT Advisory Board, University of Waterloo
-    description: Implemented improvements to campus Wi-Fi services
+    description: Implemented improvements to campus Wi-Fi services.
     web_url: https://uwaterloo.ca/ist-advisory-board/
     image_url: https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png
 
