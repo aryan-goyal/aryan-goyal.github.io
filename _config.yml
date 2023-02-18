@@ -29,7 +29,7 @@ projects:
 
 about:
   - one: Hello! I am recent Computer Engineering graduate from the University of Waterloo.
-  - two: I have 2+ years of experience designing and developing data-driven systems, with a keen interest in machine learning and artificial intelligence.
+  - two: I have 3.5+ years of experience designing and developing data-driven systems, with a keen interest in machine learning and artificial intelligence.
 
 resume:
   - link: https://drive.google.com/file/d/1uxl5ax9vWj8P6BQ4mPOkSn3mrPjCHxHd/view?usp=sharing
@@ -38,7 +38,7 @@ social_media:
   linkedin: aryan-goyal
   stackoverflow: 13190250
   spotify: aryang2000
-  instagram: aryan.gj
+  # instagram: aryan.gj
   goodreads: 93544871-aryan-goyal
   #website: https://goyalaryan.com
   # medium: your_username
