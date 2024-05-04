@@ -29,7 +29,7 @@ projects:
 
 about:
   - one: Hi, I am Aryan! I hold a Bachelor of Applied Science in Computer Engineering from the University of Waterloo.
-  - two: I have 3.5+ years of experience designing and developing data-driven systems, with a keen interest in machine learning and artificial intelligence.
+  - two: I have 4+ years of experience designing and developing data-driven systems, with a keen interest in machine learning and artificial intelligence.
 
 resume:
   - link: https://drive.google.com/file/d/1uxl5ax9vWj8P6BQ4mPOkSn3mrPjCHxHd/view?usp=sharing
@@ -37,33 +37,33 @@ resume:
 social_media:
   linkedin: aryan-goyal
   stackoverflow: 13190250
-  # spotify: aryang2000
-  # instagram: aryan.gj
+  # spotify: your_username
+  # instagram: your_username
   goodreads: 93544871-aryan
-  #website: https://goyalaryan.com
+  # website: your_username
   # medium: your_username
   # facebook: your_username
 
 experience:
-  - name: Software Engineer, FlexTrade Systems Inc.
+  - name: Software Engineer, FlexTrade Systems Inc. (Core Engineering)
     description: Order Management/Execution System, Buy-side.
     web_url: https://flextrade.com/
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/flextrade.png
 
-  - name: Software Engineer, Riskfuel Analytics Inc.
+  - name: Software Engineer, Riskfuel Analytics Inc. (Research Team)
     description: End-to-end valuation and risk computation of derivatives using Artificial Intelligence.
     web_url: https://riskfuel.com/
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/riskfuel.jpg
 
-  - name: Machine Learning Engineer, BlackBerry
-    description: CSO Artificial Intelligence Lab. Building deep learning based anomaly detection system.
+  - name: Machine Learning Engineer, BlackBerry (CSO Artificial Intelligence Lab)
+    description: Building deep learning based anomaly detection system.
     web_url: https://www.blackberry.com/us/en
     image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/bb.png
 
-  - name: Big Data Developer, DRVN Intelligence Inc. (Data Systems)
+  - name: Big Data Developer, Stacktics Inc. (Data Systems)
     description: Architecting Big Data systems using Google Cloud Platform and Artificial Intelligence.
-    web_url: https://drvnintelligence.com/
-    image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/DRVN-intelligence.png
+    web_url: https://stacktics.com/
+    image_url: https://raw.githubusercontent.com/aryan-goyal/aryan-goyal.github.io/master/assets/stacktics.jpeg
 
   - name: Software Engineer, RBC (DNA | Data & Analytics)
     description: Data Ontologies and Named Entity Recognition system using Natural Language Processing and Machine Learning.
