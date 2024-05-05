@@ -22,7 +22,6 @@ group :jekyll_plugins do
   gem "jemoji", "~> 0.13.0"
   gem "jekyll-github-metadata"
   gem "jekyll-octicons", "~> 19.8.0"
-  gem 'jekyll-sass-converter'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

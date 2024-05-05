@@ -7,7 +7,6 @@ plugins:
   - jekyll-github-metadata
   - jemoji
   - jekyll-octicons
-  - jekyll-sass-converter
 
 permalink: /:year/:month/:day/:title/
 
