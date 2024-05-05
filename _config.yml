@@ -1,6 +1,7 @@
 layout: sidebar
 style: dark
 repository: aryan-goyal/aryan-goyal.github.io
+github: [metadata]
 
 plugins:
   - jekyll-github-metadata
