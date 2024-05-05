@@ -2,10 +2,8 @@ layout: sidebar
 style: dark
 
 plugins:
-  - jekyll-include-cache
-  - gemfile
   - jekyll-octicons
-  - jekyll-github-metadata
+  # - jekyll-github-metadata
   - jemoji
 
 permalink: /:year/:month/:day/:title/
